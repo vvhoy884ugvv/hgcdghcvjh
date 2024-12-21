@@ -93,16 +93,16 @@ local RayfieldLibrary = {
 		Ocean = {
 			TextColor = Color3.fromRGB(230, 240, 240),
 
-			Background = Color3.fromRGB(20, 30, 30),
+			Background = Color3.fromRGB(69, 181, 170),
 			Topbar = Color3.fromRGB(25, 40, 40),
 			Shadow = Color3.fromRGB(15, 20, 20),
 
 			NotificationBackground = Color3.fromRGB(25, 35, 35),
 			NotificationActionsBackground = Color3.fromRGB(230, 240, 240),
 
-			TabBackground = Color3.fromRGB(40, 60, 60),
+			TabBackground = Color3.fromRGB(69, 181, 170),
 			TabStroke = Color3.fromRGB(50, 70, 70),
-			TabBackgroundSelected = Color3.fromRGB(100, 180, 180),
+			TabBackgroundSelected = Color3.fromRGB(69, 181, 170),
 			TabTextColor = Color3.fromRGB(210, 230, 230),
 			SelectedTabTextColor = Color3.fromRGB(20, 50, 50),
 
@@ -127,7 +127,7 @@ local RayfieldLibrary = {
 			DropdownSelected = Color3.fromRGB(30, 60, 60),
 			DropdownUnselected = Color3.fromRGB(25, 40, 40),
 
-			InputBackground = Color3.fromRGB(30, 50, 50),
+			InputBackground = Color3.fromRGB(69, 181, 170),
 			InputStroke = Color3.fromRGB(50, 70, 70),
 			PlaceholderColor = Color3.fromRGB(140, 160, 160)
 		},
