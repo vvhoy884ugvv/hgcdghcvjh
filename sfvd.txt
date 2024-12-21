@@ -51,11 +51,11 @@ local RayfieldLibrary = {
 		Default = {
 			TextColor = Color3.fromRGB(240, 240, 240),
 
-			Background = Color3.fromRGB(25, 25, 25),
-			Topbar = Color3.fromRGB(34, 34, 34),
-			Shadow = Color3.fromRGB(20, 20, 20),
+			Background = Color3.fromRGB(69, 181, 170),
+			Topbar = Color3.fromRGB(69, 181, 170),
+			Shadow = Color3.fromRGB(204, 233, 228),
 
-			NotificationBackground = Color3.fromRGB(20, 20, 20),
+			NotificationBackground = Color3.fromRGB(204, 233, 228),
 			NotificationActionsBackground = Color3.fromRGB(230, 230, 230),
 
 			TabBackground = Color3.fromRGB(80, 80, 80),
@@ -66,7 +66,7 @@ local RayfieldLibrary = {
 
 			ElementBackground = Color3.fromRGB(35, 35, 35),
 			ElementBackgroundHover = Color3.fromRGB(40, 40, 40),
-			SecondaryElementBackground = Color3.fromRGB(25, 25, 25),
+			SecondaryElementBackground = Color3.fromRGB(69, 181, 170),
 			ElementStroke = Color3.fromRGB(50, 50, 50),
 			SecondaryElementStroke = Color3.fromRGB(40, 40, 40),
 
